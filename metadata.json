@@ -1,0 +1,6 @@
+{
+  "name": "Hồ Sơ Số Thực Hành Then – Cộng Đồng Người Tày",
+  "description": "Nền tảng số hóa, lưu trữ và giới thiệu thực hành Then của cộng đồng người Tày tại vùng văn hóa Việt Bắc (Định Hóa, Thái Nguyên). Đề tài B01 - Đợt 15.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
